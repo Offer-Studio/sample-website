@@ -1,0 +1,196 @@
+{
+  "components": [
+    {
+      "type": "container",
+      "id": "hero-section",
+      "style": {
+        "minHeight": "90vh",
+        "display": "flex",
+        "flexDirection": "column",
+        "justifyContent": "center",
+        "alignItems": "center",
+        "padding": "2rem",
+        "backgroundColor": "hsl(var(--background))",
+        "textAlign": "center"
+      },
+      "children": [
+        {
+          "type": "text",
+          "id": "hero-title",
+          "content": "Wanna Start a Company in High School?",
+          "variant": "h1",
+          "style": {
+            "fontSize": "3.5rem",
+            "fontWeight": "800",
+            "color": "hsl(var(--primary))",
+            "marginBottom": "1.5rem",
+            "lineHeight": "1.2"
+          }
+        },
+        {
+          "type": "text",
+          "id": "hero-description",
+          "content": "You are not alone! This website is designed just for aspiring high school entrepreneurs who have received little to no entrepreneurship education in secondary school. Although taking action is the best way to learn entrepreneurship, this website still teaches you valuable methodologies so that you can prevent some common mistakes before taking action or reflect effectively after experiencing failures.",
+          "variant": "p",
+          "style": {
+            "fontSize": "1.25rem",
+            "maxWidth": "800px",
+            "marginBottom": "2rem",
+            "lineHeight": "1.6"
+          }
+        },
+        {
+          "type": "image",
+          "id": "hero-gif",
+          "src": "/media/3114c078-acfd-4b20-a116-dffa6859707e.gif",
+          "alt": "Entrepreneurship Animation",
+          "style": {
+            "maxWidth": "600px",
+            "width": "100%",
+            "height": "auto",
+            "borderRadius": "0.5rem",
+            "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)"
+          }
+        }
+      ]
+    },
+    {
+      "type": "container",
+      "id": "about-section",
+      "style": {
+        "padding": "4rem 2rem",
+        "backgroundColor": "hsl(var(--muted))",
+        "color": "hsl(var(--foreground))"
+      },
+      "children": [
+        {
+          "type": "text",
+          "id": "about-title",
+          "content": "About Charles",
+          "variant": "h2",
+          "style": {
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "textAlign": "center",
+            "marginBottom": "3rem",
+            "color": "hsl(var(--primary))"
+          }
+        },
+        {
+          "type": "container",
+          "id": "about-grid",
+          "style": {
+            "display": "grid",
+            "gap": "4rem",
+            "maxWidth": "1200px",
+            "margin": "0 auto"
+          },
+          "children": [
+            {
+              "type": "container",
+              "id": "about-section-1",
+              "style": {
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
+                "gap": "2rem",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "type": "image",
+                  "id": "about-image-1",
+                  "src": "/media/6a058e58-2b61-41e2-a263-90049a0c72b6.jpeg",
+                  "alt": "Charles Profile",
+                  "style": {
+                    "width": "100%",
+                    "height": "auto",
+                    "borderRadius": "0.5rem",
+                    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+                  }
+                },
+                {
+                  "type": "text",
+                  "id": "about-text-1",
+                  "content": "Hello! I'm so glad you visited my website. My name is Charles, and I'm currently a college student and entrepreneur at Northwestern University. I still vividly remember launching my first startup in 10th grade. I was expecting significant traction and imagining the satisfaction of solving a pain point shared by many friends around me...",
+                  "variant": "p",
+                  "style": {
+                    "fontSize": "1.125rem",
+                    "lineHeight": "1.7"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "id": "about-section-2",
+              "style": {
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
+                "gap": "2rem",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "id": "about-text-2",
+                  "content": "Then the harsh reality hit: only a few thousand clicks. How was that possible? I had prepared this launch for half a year! After deep reflection, I realized that entrepreneurship is something that should be taught and learned. Hence, I co-founded a high school entrepreneurship community with my friends to share failures and successes, and incubate other student-led startups.",
+                  "variant": "p",
+                  "style": {
+                    "fontSize": "1.125rem",
+                    "lineHeight": "1.7"
+                  }
+                },
+                {
+                  "type": "image",
+                  "id": "about-image-2",
+                  "src": "/media/3edad9fe-3b65-4cbf-a06b-2c3a1dc26eea.jpeg",
+                  "alt": "Entrepreneurship Journey",
+                  "style": {
+                    "width": "100%",
+                    "height": "auto",
+                    "borderRadius": "0.5rem",
+                    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "id": "about-section-3",
+              "style": {
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
+                "gap": "2rem",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "type": "image",
+                  "id": "about-image-3",
+                  "src": "/media/a9de0b1c-6edf-442f-90d7-f6571aa31a99.jpeg",
+                  "alt": "Future Vision",
+                  "style": {
+                    "width": "100%",
+                    "height": "auto",
+                    "borderRadius": "0.5rem",
+                    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+                  }
+                },
+                {
+                  "type": "text",
+                  "id": "about-text-3",
+                  "content": "This website includes important knowledge I learned about entrepreneurship in high school. However, I never stop learning, and I'm certain that I will revamp this website after graduating from college.",
+                  "variant": "p",
+                  "style": {
+                    "fontSize": "1.125rem",
+                    "lineHeight": "1.7"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 

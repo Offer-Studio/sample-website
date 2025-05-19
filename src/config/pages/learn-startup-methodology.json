@@ -1,0 +1,40 @@
+{
+  "components": [
+    {
+      "type": "container",
+      "id": "hero-section",
+      "style": {
+        "padding": "4rem 2rem",
+        "backgroundColor": "hsl(var(--background))",
+        "textAlign": "center"
+      },
+      "children": [
+        {
+          "type": "text",
+          "id": "page-title",
+          "content": "Learn Startup Methodology",
+          "variant": "h1",
+          "style": {
+            "fontSize": "4rem",
+            "fontWeight": "800",
+            "color": "hsl(var(--primary))",
+            "marginBottom": "2rem",
+            "lineHeight": "1.2"
+          }
+        },
+        {
+          "type": "text",
+          "id": "coming-soon",
+          "content": "Coming soon....",
+          "variant": "h2",
+          "style": {
+            "fontSize": "2rem",
+            "fontWeight": "600",
+            "color": "hsl(var(--muted-foreground))",
+            "marginTop": "2rem"
+          }
+        }
+      ]
+    }
+  ]
+} 

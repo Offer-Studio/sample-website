@@ -1,0 +1,270 @@
+{
+  "siteName": "Shao's test page",
+  "clientName": "Shao",
+  "websiteType": "personal",
+  "description": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin porttitor nisl ac sodales sagittis. Quisque in tincidunt metus. Nulla id feugiat odio. Sed elementum sapien vel ultrices posuere. Suspendisse tristique purus id felis congue auctor. ",
+  "theme": "togglable",
+  "stylingRequirements": "beautiful. Modern.",
+  "logo": {
+    "file": {
+      "id": "logo-1742817955934",
+      "file": {},
+      "fileName": "Screenshot 2025-03-24 at 20.05.54.png",
+      "fileType": "image",
+      "previewUrl": "media/Screenshot 2025-03-24 at 20.05.54.png",
+      "caption": "Website Logo",
+      "fileUploaded": true
+    }
+  },
+  "backgroundMusic": {
+    "files": [],
+    "playbackMode": "sequential"
+  },
+  "contactInfo": {
+    "sectionTitle": "Contact Me!",
+    "email": "shaoxiongduan@gmail.com",
+    "phone": "123-456-789",
+    "x": "https://x.com/shao",
+    "instagram": "https://instagram.com/shao",
+    "linkedin": "https://linkedin.com/shao",
+    "github": "https://github.com/shaoxiongduan"
+  },
+  "status": "DRAFT",
+  "navbar": {
+    "position": "top",
+    "visibility": "persistent",
+    "stylingRequirements": "standard."
+  },
+  "pages": [
+    {
+      "id": "page-home",
+      "title": "Home",
+      "path": "/",
+      "stylingRequirements": "",
+      "isHomePage": true,
+      "sections": [
+        {
+          "id": "section-1742818034873",
+          "title": "Main Section",
+          "stylingRequirements": "Big bold letters in the front complete with a scrolling background of the images below.",
+          "components": [
+            {
+              "id": "component-1742818083673",
+              "type": "text",
+              "content": "<p><strong>Shao: Lorem, Ipsum.</strong></p><p></p><h4><em>\"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...\"</em></h4><p></p>",
+              "stylingRequirements": "Make the first line big and bold, and put the quote below."
+            },
+            {
+              "id": "component-1742818167843",
+              "type": "media",
+              "files": [
+                {
+                  "id": "file-1742818195390",
+                  "file": {},
+                  "fileName": "IMG_2840.jpeg",
+                  "fileType": "image",
+                  "previewUrl": "media/IMG_2840.jpeg",
+                  "caption": "",
+                  "fileUploaded": true
+                },
+                {
+                  "id": "file-1742818206918",
+                  "file": {},
+                  "fileName": "IMG_2839.jpeg",
+                  "fileType": "image",
+                  "previewUrl": "media/IMG_2839.jpeg",
+                  "caption": "",
+                  "fileUploaded": true
+                },
+                {
+                  "id": "file-1742818214468",
+                  "file": {},
+                  "fileName": "IMG_2839.jpeg",
+                  "fileType": "image",
+                  "previewUrl": "media/IMG_2839.jpeg",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": "These photos are the ones that go in the main section, behind the text."
+            }
+          ]
+        },
+        {
+          "id": "section-1742818244593",
+          "title": "Publications",
+          "stylingRequirements": "This section will contain 3 papers written by me. put the 3 pdfs side by side next to each other.",
+          "components": [
+            {
+              "id": "component-1742818291225",
+              "type": "media",
+              "files": [
+                {
+                  "id": "file-1742818307543",
+                  "file": {},
+                  "fileName": "OFFER STUDIO 网站搭建内容收集 活动项目类网站 ydkssdfz.pdf",
+                  "fileType": "pdf",
+                  "previewUrl": "media/OFFER STUDIO 网站搭建内容收集 活动项目类网站 ydkssdfz.pdf",
+                  "caption": "<p>quam. Nulla facilisi. Morbi bibendum, magna sed porttitor varius, justo dolor posuere risus, ut elementum quam ligula id elit. Quisque eget malesuada tellus. Aenean eget eleifend turpis.</p>",
+                  "fileUploaded": true
+                },
+                {
+                  "id": "file-1742818318229",
+                  "file": {},
+                  "fileName": "REEFSCAPE SIZE REFERENCE (1).pdf",
+                  "fileType": "pdf",
+                  "previewUrl": "media/REEFSCAPE SIZE REFERENCE (1).pdf",
+                  "caption": "<p>Vestibulum ornare nisi eget nunc pretium maximus. Sed id aliquam mauris. Donec nec mi nec dui egestas egestas semper ac velit. Fusce interdum interdum orci at bibendum. Quisque</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": "These pdfs go side by side."
+            },
+            {
+              "id": "component-1742823490833",
+              "type": "media",
+              "files": [
+                {
+                  "id": "file-1742823496500",
+                  "file": {},
+                  "fileName": "12527EngineeringNotebook.pdf",
+                  "fileType": "pdf",
+                  "previewUrl": "media/12527EngineeringNotebook.pdf",
+                  "caption": "<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap i</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            }
+          ]
+        },
+        {
+          "id": "section-1742821914463",
+          "title": "Projects",
+          "stylingRequirements": "This part should have the images/video on the one side, and the caption on the other. It should be in a criss-cross pattern, where for instance, the text should be on the left side with the media on the right for the first image, and the positions of the text and media should swap for the next one. Make the background of this one like frosted glass.",
+          "components": [
+            {
+              "id": "component-1742822162911",
+              "type": "media",
+              "files": [
+                {
+                  "id": "file-1742822204037",
+                  "file": {},
+                  "fileName": "Screen Recording 2025-03-18 at 15.42.36.mov",
+                  "fileType": "video",
+                  "previewUrl": "media/Screen Recording 2025-03-18 at 15.42.36.mov",
+                  "caption": "<p>FRC competition. Why does it freakin flash when i type. Why does it freakin do this when I type whyyyyyy. MY EYES!!!</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            },
+            {
+              "id": "component-1742822262044",
+              "type": "media",
+              "files": [
+                {
+                  "id": "file-1742822283644",
+                  "file": {},
+                  "fileName": "vision.png",
+                  "fileType": "image",
+                  "previewUrl": "media/vision.png",
+                  "caption": "<p>Vision update!!! Test, test hello world from shao!</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": "Make it have a blue glowing border."
+            },
+            {
+              "id": "component-1742822318426",
+              "type": "media",
+              "files": [
+                {
+                  "id": "file-1742822331651",
+                  "file": {},
+                  "fileName": "Screen Recording 2025-02-27 at 17.03.56.mov",
+                  "fileType": "video",
+                  "previewUrl": "media/Screen Recording 2025-02-27 at 17.03.56.mov",
+                  "caption": "<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap.</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            },
+            {
+              "id": "component-1742822346344",
+              "type": "media",
+              "files": [
+                {
+                  "id": "file-1742822355246",
+                  "file": {},
+                  "fileName": "3766_1741783903.mp4",
+                  "fileType": "video",
+                  "previewUrl": "media/3766_1741783903.mp4",
+                  "caption": "<p>ummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap i</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": "Make it have a glowing red border."
+            },
+            {
+              "id": "component-1742823369200",
+              "type": "media",
+              "files": [
+                {
+                  "id": "file-1742823378836",
+                  "file": {},
+                  "fileName": "vision.pdf",
+                  "fileType": "pdf",
+                  "previewUrl": "media/vision.pdf",
+                  "caption": "<p>vision pdf test.</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            }
+          ]
+        }
+      ],
+      "errors": {
+        "title": {
+          "hasError": false,
+          "message": ""
+        },
+        "path": {
+          "hasError": false,
+          "message": ""
+        }
+      },
+      "touched": {
+        "title": true,
+        "path": false
+      }
+    }
+  ],
+  "errors": {
+    "siteName": {
+      "hasError": false,
+      "message": ""
+    },
+    "clientName": {
+      "hasError": false,
+      "message": ""
+    },
+    "description": {
+      "hasError": false,
+      "message": ""
+    },
+    "stylingRequirements": {
+      "hasError": false,
+      "message": ""
+    }
+  },
+  "touched": {
+    "siteName": true,
+    "clientName": true
+  },
+  "updatedAt": "2025-03-24T13:38:51.887Z",
+  "createdAt": "2025-03-24T12:12:50.457Z",
+  "formId": "73bc4e45-7c17-4869-8d71-d5d52ade5c84"
+}

@@ -1,0 +1,568 @@
+{
+  "formId": "33c900cf-e672-4541-bce0-9dcc8e5e661d",
+  "status": "SUBMITTED",
+  "siteName": "HS Entrepreneurship 101",
+  "websiteType": "project",
+  "description": "This website was created by Charles, an incoming freshman at Northwestern University. He had various entrepreneurial attempts throughout his secondary education and experienced both failures and successes. Entrepreneurship is risky. This website aims to teach aspiring high school entrepreneurs crucial startup knowledge in preparation for startup competitions like the Diamond Challenge, or for actual startup launches.",
+  "theme": "light",
+  "stylingRequirements": "follow this style: https://slicingpie.com/\nred & white",
+  "logo": {
+    "file": {
+      "id": "57b7de67-08a8-4c54-a199-fc3a286ca4c7",
+      "file": null,
+      "fileName": "57b7de67-08a8-4c54-a199-fc3a286ca4c7.png",
+      "originalFileName": "Screenshot 2025-03-09 at 19.06.05.png",
+      "fileType": "image",
+      "previewUrl": "https://offerstudiostorage.blob.core.windows.net/offerstudiocontainer/users/112876494864042277206/forms/33c900cf-e672-4541-bce0-9dcc8e5e661d/media/57b7de67-08a8-4c54-a199-fc3a286ca4c7.png?sv=2025-05-05&spr=https&st=2025-05-08T08%3A08%3A51Z&se=2025-05-08T09%3A08%3A51Z&sr=b&sp=racwd&sig=cQObgI2umcOhUH3D1KzpIbWPHuxyAIfVJjlZivj02Zc%3D",
+      "caption": "Website Logo",
+      "fileUploaded": true
+    }
+  },
+  "backgroundMusic": {
+    "files": [
+      {
+        "id": "745aca0c-0190-454c-a059-ee7714b06231",
+        "file": null,
+        "fileName": "745aca0c-0190-454c-a059-ee7714b06231.mp3",
+        "originalFileName": "background-music-calm-soft-334182.mp3",
+        "fileType": "audio",
+        "previewUrl": "https://offerstudiostorage.blob.core.windows.net/offerstudiocontainer/users/112876494864042277206/forms/33c900cf-e672-4541-bce0-9dcc8e5e661d/media/745aca0c-0190-454c-a059-ee7714b06231.mp3?sv=2025-05-05&spr=https&st=2025-05-08T08%3A15%3A34Z&se=2025-05-08T09%3A15%3A34Z&sr=b&sp=racwd&sig=Lo3omvgovgY9wQsC4eRXsz1jtRudQoS05CUG8gBKT7g%3D",
+        "caption": "background-music-calm-soft-334182.mp3",
+        "fileUploaded": true
+      }
+    ],
+    "playbackMode": "sequential"
+  },
+  "contactInfo": {
+    "sectionTitle": "Contact Me!",
+    "email": "charlesmengsicheng@gmail.com",
+    "phone": "WeChat: TauPsc-0317",
+    "x": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/sicheng-meng-3a5261263/",
+    "github": ""
+  },
+  "navbar": {
+    "position": "top",
+    "visibility": "scroll-dependent",
+    "stylingRequirements": "red text, consistent with the rest of the fonts"
+  },
+  "pages": [
+    {
+      "id": "page-home",
+      "title": "Home",
+      "path": "/",
+      "stylingRequirements": "follow this style: https://slicingpie.com/--------follow this example",
+      "isHomePage": true,
+      "sections": [
+        {
+          "id": "c1c73792-ecdb-43d7-bbee-4cce853b4e05",
+          "title": "Wanna Start a Company in High School? ",
+          "stylingRequirements": "large, bold ",
+          "components": [
+            {
+              "id": "5d94cc89-b310-40f2-911b-4cae35f2c844",
+              "type": "text",
+              "content": "<p>You are not alone! This website is designed just for aspiring high school entrepreneurs who have received little to no entrepreneurship education in secondary school. Although taking action is the best way to learn entrepreneurship, this website still teaches you valuable methodologies so that you can prevent some common mistakes before taking action or reflect effectively after experiencing failures.</p>",
+              "stylingRequirements": "below title"
+            },
+            {
+              "id": "5f906735-e5ac-454d-98cc-c5de04560686",
+              "type": "media",
+              "files": [
+                {
+                  "id": "3114c078-acfd-4b20-a116-dffa6859707e",
+                  "file": null,
+                  "fileName": "3114c078-acfd-4b20-a116-dffa6859707e.gif",
+                  "originalFileName": "original-ebc964bb0c256e02b4453fbcd425830a.gif",
+                  "fileType": "image",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": "below all the above text, the 2 pieces of text, combined with gif, should show up in first page, no need to scroll down"
+            }
+          ]
+        },
+        {
+          "id": "8bc9ce37-f899-4056-9648-8f3e9f813451",
+          "title": "About Charles",
+          "stylingRequirements": "",
+          "components": [
+            {
+              "id": "af14a32d-f6b3-419b-a7e9-1aa2f5de7820",
+              "type": "text",
+              "content": "<p></p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "e6779fc2-3d45-4e54-a2d9-73e3c4892758",
+              "type": "media",
+              "files": [
+                {
+                  "id": "6a058e58-2b61-41e2-a263-90049a0c72b6",
+                  "file": null,
+                  "fileName": "6a058e58-2b61-41e2-a263-90049a0c72b6.jpeg",
+                  "originalFileName": "WechatIMG4143.jpeg",
+                  "fileType": "image",
+                  "caption": "<p>Hello! I'm so glad you visited my website. My name is Charles, and I'm currently a college student and entrepreneur at Northwestern University. I still vividly remember launching my first startup in 10th grade. I was expecting significant traction and imagining the satisfaction of solving a pain point shared by many friends around me...</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": "图片在左，文字在右"
+            },
+            {
+              "id": "04960d80-1c7b-4f20-aa8d-03ec10208340",
+              "type": "media",
+              "files": [
+                {
+                  "id": "3edad9fe-3b65-4cbf-a06b-2c3a1dc26eea",
+                  "file": null,
+                  "fileName": "3edad9fe-3b65-4cbf-a06b-2c3a1dc26eea.jpeg",
+                  "originalFileName": "WechatIMG4144.jpeg",
+                  "fileType": "image",
+                  "caption": "<p>Then the harsh reality hit: only a few thousand clicks. How was that possible? I had prepared this launch for half a year! After deep reflection, I realized that entrepreneurship is something that should be taught and learned. Hence, I co-founded a high school entrepreneurship community with my friends to share failures and successes, and incubate other student-led startups.</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": "图片在右，文字在左"
+            },
+            {
+              "id": "ed218647-7566-48dd-b797-267375b2da04",
+              "type": "media",
+              "files": [
+                {
+                  "id": "a9de0b1c-6edf-442f-90d7-f6571aa31a99",
+                  "file": null,
+                  "fileName": "a9de0b1c-6edf-442f-90d7-f6571aa31a99.jpeg",
+                  "originalFileName": "WechatIMG4145.jpeg",
+                  "fileType": "image",
+                  "caption": "<p>This website includes important knowledge I learned about entrepreneurship in high school. However, I never stop learning, and I'm certain that I will revamp this website after graduating from college.</p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": "图片在左，文字在右"
+            }
+          ]
+        }
+      ],
+      "errors": {
+        "title": {
+          "hasError": false,
+          "message": ""
+        },
+        "path": {
+          "hasError": false,
+          "message": ""
+        },
+        "stylingRequirements": {
+          "hasError": false,
+          "message": ""
+        }
+      },
+      "touched": {
+        "title": true,
+        "path": false
+      }
+    },
+    {
+      "id": "page-98406606-93cf-4911-8e2b-4b502c850020",
+      "title": "Blue Ocean Strategy",
+      "path": "/blue-ocean-strategy",
+      "stylingRequirements": "Blue Ocean Strategy是最大的字，然后分overview，Startup 1: Teeming (RIP)，Other startups: OFFER STUDIO(Growing), Gorametto(Unknown), ACCEPTED(idea phrase) ，三个部分。正文在左边，图片都在正文右边。文字和文字之后的图片是一个组合。",
+      "isHomePage": false,
+      "sections": [
+        {
+          "id": "4d5f8089-947b-472c-acf6-14d426105fd2",
+          "title": "Overview",
+          "stylingRequirements": "",
+          "components": [
+            {
+              "id": "4da26c3e-5515-43c6-b17e-d63f395f90d9",
+              "type": "text",
+              "content": "<p>Blue Ocean Strategy (BOS) is a strategic framework for creating new, uncontested market space (“blue oceans”) rather than competing in overcrowded industries (“red oceans”). Firms adopting BOS pursue simultaneous differentiation and low cost, breaking the traditional value‑cost tradeoff. In practice, this means seeking out untapped demand – new customers and market niches – so that “competition is made irrelevant“. As one summary puts it, BOS focuses on “achieving both uniqueness and low costs to create new market areas” and generate demand rather than fight over it.</p><p></p><p>Lean more about BOS: <a href=\"https://chatgpt.com/s/dr_6821c4b1ba808191934cf851b2cee6b7\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"cursor-pointer text-blue-500 hover:text-blue-700 transition-colors duration-200\" data-link-type=\"external\">https://chatgpt.com/s/dr_6821c4b1ba808191934cf851b2cee6b7</a></p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "8f001831-07b7-4ee8-a587-2409623cb1cb",
+              "type": "media",
+              "files": [
+                {
+                  "id": "60095a9e-60f5-4176-be4a-6b86a1c5ff51",
+                  "file": null,
+                  "fileName": "60095a9e-60f5-4176-be4a-6b86a1c5ff51.png",
+                  "originalFileName": "WhatisBOS1.png",
+                  "fileType": "image",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            }
+          ]
+        },
+        {
+          "id": "2031afea-1e9b-4453-ac3a-585659c5fe24",
+          "title": "Startup 1: Teeming (RIP)",
+          "stylingRequirements": "",
+          "components": [
+            {
+              "id": "2c625ce4-7686-4fb8-9de8-a02ded36501d",
+              "type": "text",
+              "content": "<p>A lot of friends ask me how to come up with a brilliant “blue ocean” startup idea in the first place. I remember the first time I participated in an innovation summit called the Conrad Challenge. Our team was given the task of innovating in the field of energy and environment. After days and nights of Googling, all we came up with was a portable water bottle that detects and purifies water—for lower-middle-income country laborers. Sounds pretty lame, right?</p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "5ef33de7-1bca-4c2e-ba55-bb1af5a819e8",
+              "type": "media",
+              "files": [
+                {
+                  "id": "55fa40c1-32e6-409d-a0c2-05e4c10c38d5",
+                  "file": null,
+                  "fileName": "55fa40c1-32e6-409d-a0c2-05e4c10c38d5.png",
+                  "originalFileName": "Screenshot 2025-05-12 at 22.12.00.png",
+                  "fileType": "image",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            },
+            {
+              "id": "ab5ca276-e7cc-48be-8c9e-06a7ad8770a0",
+              "type": "text",
+              "content": "<p>So, my suggestion for finding a cool startup idea is the same as finding love: let it happen naturally. None of my good startup ideas came from Googling (other than that summit one), and none of my love stories came from swiping on Tinder or Chinese dating apps. But even if things happen naturally, you still have to be prepared to catch the opportunity when it comes. I believe the best way to be prepared is to pay closer attention to life, ask more “why not?” questions, and turn those very personal and intimate dissatisfactions into the spark for your startup idea.</p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "666fdc9b-4f0c-4b7d-ae32-a478639d266c",
+              "type": "media",
+              "files": [
+                {
+                  "id": "0fbf8987-360a-4a80-803c-d889567611bc",
+                  "file": null,
+                  "fileName": "0fbf8987-360a-4a80-803c-d889567611bc.jpeg",
+                  "originalFileName": "CHARLES 2025-05-05 22.14.55.jpeg",
+                  "fileType": "image",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            },
+            {
+              "id": "0b196d3c-429c-44cb-ac38-140fd83cd51f",
+              "type": "text",
+              "content": "<p>Now, here comes the story of my first startup, <strong>Teeming</strong>. Since sixth grade, I’ve been a super active student in all kinds of competitions—debate, public speaking, MUN, econ, business sims, you name it. As I made more friends along the way, I noticed a shared frustration—whether in WeChat PMs or moments—about how hard it was to find teammates for competitions, activities, and charity projects, especially for international students in China. My friends were always complaining. I was too, whenever I needed teammates.</p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "3d4c85f1-8fc4-4ac4-ac64-d36f61fdfb28",
+              "type": "media",
+              "files": [
+                {
+                  "id": "dfcc0149-861e-44ae-b398-fd8e055412e3",
+                  "file": null,
+                  "fileName": "dfcc0149-861e-44ae-b398-fd8e055412e3.png",
+                  "originalFileName": "Screenshot 2025-05-12 at 22.17.45.png",
+                  "fileType": "image",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            },
+            {
+              "id": "a93b6791-9494-47d9-8c7c-f987228f4238",
+              "type": "text",
+              "content": "<p>I quickly seized the opportunity and came up with the idea of creating an aggregator platform on WeChat (a mini-program) to help international students find teammates. The magic of drawing startup ideas from personal experience is that they’re often naturally in a “blue ocean.” Especially if you’re a high schooler, because your friends who share the same pain point usually don’t see it as an entrepreneurial opportunity—leaving you as one of the rare changemakers.</p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "8e71bb14-5436-4bd3-92a4-2c8b53bb02e6",
+              "type": "media",
+              "files": [
+                {
+                  "id": "23c1d76a-2055-4e12-ba2e-788701bb706a",
+                  "file": null,
+                  "fileName": "23c1d76a-2055-4e12-ba2e-788701bb706a.mp4",
+                  "originalFileName": "CHARLES 2025-05-05 22.28.20.mp4",
+                  "fileType": "video",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            },
+            {
+              "id": "1f06110b-bef2-4434-a83d-bb95b50ec0cf",
+              "type": "text",
+              "content": "<p>In the book <em>Blue Ocean Strategy</em>, the importance of value innovation (redefining the product or service to be far more attractive to buyers at a lower cost) and the Eliminate–Reduce–Raise–Create (ERRC) framework aligns pretty well with the lean startup methodology—which I’ll dive deeper into later <a href=\"#page:page-7fb69e1a-ddb9-4d31-942f-b75c58168eae\" rel=\"noopener noreferrer\" class=\"cursor-pointer text-blue-500 hover:text-blue-700 transition-colors duration-200\" data-internal=\"true\" data-internal-type=\"page\" data-internal-target=\"page-7fb69e1a-ddb9-4d31-942f-b75c58168eae\" data-link-type=\"external\">here</a>. But here’s the thing: one of the main criticisms of blue ocean strategy is how easy it is to <em>ignore real competition</em>. The entrepreneurial world is wild and ever-changing. A lot of brilliant founders start by solving a super niche pain point—just like you—and they also pivot and grow. So just because your startup is in a blue ocean <em>now</em> doesn’t mean it’ll stay that way. There will always be potential competitors lurking, ready to make a move. So technically, it’s wrong to assume your market is a “safe” blue ocean forever.</p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "567cf0fa-2eba-4bba-a2e6-6369ae646c26",
+              "type": "media",
+              "files": [
+                {
+                  "id": "04704fad-abac-49fc-ae35-691f43716614",
+                  "file": null,
+                  "fileName": "04704fad-abac-49fc-ae35-691f43716614.webp",
+                  "originalFileName": "00-blue-ocean-strategy-cover.webp",
+                  "fileType": "image",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            },
+            {
+              "id": "f4ed49d4-2919-4e77-bdb5-c0ee1f3ef921",
+              "type": "text",
+              "content": "<p>In my case, after a few months of solid growth, <strong>RedNote</strong> (better known as Xiaohongshu) suddenly started becoming super popular with young international students. Now, anyone who wants to find a teammate can just post on RedNote, and people will drop their bios in the comments. Just like that, Teeming wasn’t needed anymore. That’s where I learned a huge lesson: always do your homework to scout out potential competitors, and <em>always</em> have a contingency plan to stay competitive if a rival suddenly pops up out of nowhere.</p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "d3f03267-f68e-46e7-8a8b-4e42705eb081",
+              "type": "media",
+              "files": [
+                {
+                  "id": "037b1bd9-b639-4afa-a6da-c08b1b93e819",
+                  "file": null,
+                  "fileName": "037b1bd9-b639-4afa-a6da-c08b1b93e819.png",
+                  "originalFileName": "Screenshot 2025-05-12 at 22.56.11.png",
+                  "fileType": "image",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            }
+          ]
+        },
+        {
+          "id": "35fd4367-6fc6-48e1-bd05-e5052dea2088",
+          "title": "Other startups: OFFER STUDIO(Growing), Gorametto(Unknown), ACCEPTED(idea phrase) ",
+          "stylingRequirements": "",
+          "components": [
+            {
+              "id": "3b775469-c533-46d1-bfc5-bc9357d1140d",
+              "type": "text",
+              "content": "<p>Offer Studio is a startup I pour most of my time and energy into right now. The company earned $6,000 in revenue just in the first 20 days of operation. The service of Offer Studio is basically helping students applying to U.S. colleges to make personal websites, and websites for activities, charity projects, and entrepreneurial projects. During the college application process, I was extremely busy with refining the Common App essay, supplemental essays, and the activities list. When my counselor told me about the necessity of creating a personal website, it was the last straw that crushed me. To save time, I wrote everything in the format of a document and paid a website-making company $400 to transform those contents into a website. They promised to give me the website in 2 weeks—still no message after 4 weeks. When I accessed their so-called “finished version” that they finally gave me after more than a month, I was so pissed because the website was a total piece of shit—looking like something made by a 10th-century barbarian. Not only was everything a mess and super ugly, they also misinterpreted a lot of things I wrote……There were only 2 days left until the application deadline. Then, I decided to do it myself. With years of experience using Wix, I made a wonderful-looking website in just one night without sleeping. And that tiredness and dissatisfaction with the service current companies offer is what made me determined to launch Offer Studio—our own service—right after I finished my college applications. Even if the current competitors exist on the surface level, I know that our service targets customers that are different in significant ways. This makes our service a relative blue ocean.</p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "654d2f19-d348-475f-a1dc-88b9a1e225ac",
+              "type": "media",
+              "files": [
+                {
+                  "id": "cf57314c-d1ca-4965-9a89-543d2255a22f",
+                  "file": null,
+                  "fileName": "cf57314c-d1ca-4965-9a89-543d2255a22f.png",
+                  "originalFileName": "Screenshot 2025-05-12 at 23.01.53.png",
+                  "fileType": "image",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            },
+            {
+              "id": "3ff443af-41e6-4c0b-9310-a31a2afdf207",
+              "type": "text",
+              "content": "<p><strong>Gorametto</strong> is the world’s first transparent snowboard—a startup I incubated in my high school entrepreneurship community. The founder was brilliant in coming up with this blue ocean idea. Most snowboards today, like Burton, compete on aesthetic design, whereas the founder of Gorametto is innovating in the material: making it transparent. Additionally, the polymer core with a fiber support structure also reduces cost, and improves lifespan and maneuverability.</p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "3591d63c-b2a8-4b3c-974c-c419617e0c1e",
+              "type": "text",
+              "content": "<p><strong>ACCEPTED</strong> is a fashion brand targeting applicants to U.S. colleges. I want to use the <em>Five Elements and Eight Characters</em> (a traditional Chinese fortune-telling method) to calculate which element a person lacks the most, and then recommend our trendy fashion pieces that “boost their luck” by aligning with that missing element.</p>",
+              "stylingRequirements": ""
+            },
+            {
+              "id": "f3f3f592-53e0-4c70-b7ed-f246c77f9827",
+              "type": "media",
+              "files": [
+                {
+                  "id": "c1a6b046-4305-4cf9-aea4-15d39016049e",
+                  "file": null,
+                  "fileName": "c1a6b046-4305-4cf9-aea4-15d39016049e.png",
+                  "originalFileName": "ACCEPTED23 定稿.png",
+                  "fileType": "image",
+                  "caption": "",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": ""
+            },
+            {
+              "id": "b7dad17f-10e3-495a-9343-31ea96a57ffb",
+              "type": "media",
+              "files": [
+                {
+                  "id": "0127fafa-a1a1-4bbd-8ff2-92848f095cec",
+                  "file": null,
+                  "fileName": "0127fafa-a1a1-4bbd-8ff2-92848f095cec.png",
+                  "originalFileName": "Screenshot 2025-05-09 at 21.45.05.png",
+                  "fileType": "image",
+                  "caption": "<p></p>",
+                  "fileUploaded": true
+                }
+              ],
+              "stylingRequirements": "这个应该在gorametto的文字下方。我当时把图片删了，因为上传网络问题，但再想再那个文字下面加回去就不成功了，这里也许需要调整一下。"
+            }
+          ]
+        }
+      ],
+      "errors": {
+        "title": {
+          "hasError": false,
+          "message": ""
+        },
+        "path": {
+          "hasError": false,
+          "message": ""
+        },
+        "stylingRequirements": {
+          "hasError": false,
+          "message": ""
+        }
+      },
+      "touched": {
+        "title": true,
+        "path": true
+      }
+    },
+    {
+      "id": "page-7fb69e1a-ddb9-4d31-942f-b75c58168eae",
+      "title": "Learn Startup Methodology",
+      "path": "/learn-startup-methodology",
+      "stylingRequirements": "",
+      "isHomePage": false,
+      "sections": [
+        {
+          "id": "bb98282f-5ad9-4eb3-a4b2-b18001da935e",
+          "title": "",
+          "stylingRequirements": "",
+          "components": [
+            {
+              "id": "772dc41f-6317-401c-86a5-a6d539ae8754",
+              "type": "text",
+              "content": "<p>Coming soon....</p>",
+              "stylingRequirements": ""
+            }
+          ]
+        }
+      ],
+      "errors": {
+        "title": {
+          "hasError": false,
+          "message": ""
+        },
+        "path": {
+          "hasError": false,
+          "message": ""
+        }
+      },
+      "touched": {
+        "title": true,
+        "path": false
+      }
+    },
+    {
+      "id": "page-1b680695-f5c1-431f-9444-dda8a446ff5a",
+      "title": "Innovator's Dilemma",
+      "path": "/innovators-dilemma",
+      "stylingRequirements": "",
+      "isHomePage": false,
+      "sections": [
+        {
+          "id": "6e4105fa-ab87-486a-b124-fa4b13335b0a",
+          "title": "",
+          "stylingRequirements": "",
+          "components": [
+            {
+              "id": "4b834ea1-6044-4e01-a88f-a4278064370d",
+              "type": "text",
+              "content": "<p>coming soon...</p>",
+              "stylingRequirements": ""
+            }
+          ]
+        }
+      ],
+      "errors": {
+        "title": {
+          "hasError": false,
+          "message": ""
+        },
+        "path": {
+          "hasError": false,
+          "message": ""
+        }
+      },
+      "touched": {
+        "title": true,
+        "path": false
+      }
+    },
+    {
+      "id": "page-82aa144e-efd5-4ba0-9a28-068a2210f0a2",
+      "title": "Other Notes",
+      "path": "/other-notes",
+      "stylingRequirements": "",
+      "isHomePage": false,
+      "sections": [
+        {
+          "id": "68a97ac5-06b2-4d85-abf0-aa0d0444ef50",
+          "title": "",
+          "stylingRequirements": "",
+          "components": [
+            {
+              "id": "4a37ce92-01c6-495b-aeae-c457877ff7aa",
+              "type": "text",
+              "content": "<p>coming soon...</p>",
+              "stylingRequirements": ""
+            }
+          ]
+        }
+      ],
+      "errors": {
+        "title": {
+          "hasError": false,
+          "message": ""
+        },
+        "path": {
+          "hasError": false,
+          "message": ""
+        }
+      },
+      "touched": {
+        "title": true,
+        "path": false
+      }
+    }
+  ],
+  "errors": {
+    "siteName": {
+      "hasError": false,
+      "message": ""
+    },
+    "description": {
+      "hasError": false,
+      "message": ""
+    },
+    "theme": {
+      "hasError": false,
+      "message": ""
+    },
+    "stylingRequirements": {
+      "hasError": false,
+      "message": ""
+    }
+  },
+  "touched": {
+    "siteName": true
+  },
+  "updatedAt": "2025-05-13T07:14:28.521Z",
+  "createdAt": "2025-05-08T08:08:27.849Z"
+}

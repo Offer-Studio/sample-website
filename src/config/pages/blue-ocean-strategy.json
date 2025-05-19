@@ -1,0 +1,452 @@
+{
+  "components": [
+    {
+      "type": "container",
+      "id": "hero-section",
+      "style": {
+        "padding": "4rem 2rem",
+        "backgroundColor": "hsl(var(--background))",
+        "textAlign": "center"
+      },
+      "children": [
+        {
+          "type": "text",
+          "id": "page-title",
+          "content": "Blue Ocean Strategy",
+          "variant": "h1",
+          "style": {
+            "fontSize": "4rem",
+            "fontWeight": "800",
+            "color": "hsl(var(--primary))",
+            "marginBottom": "2rem",
+            "lineHeight": "1.2"
+          }
+        }
+      ]
+    },
+    {
+      "type": "container",
+      "id": "overview-section",
+      "style": {
+        "padding": "2rem",
+        "maxWidth": "1200px",
+        "margin": "0 auto"
+      },
+      "children": [
+        {
+          "type": "text",
+          "id": "overview-title",
+          "content": "Overview",
+          "variant": "h2",
+          "style": {
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "color": "hsl(var(--primary))",
+            "marginBottom": "2rem"
+          }
+        },
+        {
+          "type": "container",
+          "id": "overview-content",
+          "style": {
+            "display": "grid",
+            "gridTemplateColumns": "1fr 1fr",
+            "gap": "2rem",
+            "alignItems": "center"
+          },
+          "children": [
+            {
+              "type": "text",
+              "id": "overview-text",
+              "content": "Blue Ocean Strategy (BOS) is a strategic framework for creating new, uncontested market space (\"blue oceans\") rather than competing in overcrowded industries (\"red oceans\"). Firms adopting BOS pursue simultaneous differentiation and low cost, breaking the traditional value‑cost tradeoff. In practice, this means seeking out untapped demand – new customers and market niches – so that \"competition is made irrelevant\". As one summary puts it, BOS focuses on \"achieving both uniqueness and low costs to create new market areas\" and generate demand rather than fight over it.\n\nLearn more about BOS: https://chatgpt.com/s/dr_6821c4b1ba808191934cf851b2cee6b7",
+              "variant": "p",
+              "style": {
+                "fontSize": "1.125rem",
+                "lineHeight": "1.7",
+                "textAlign": "left"
+              }
+            },
+            {
+              "type": "image",
+              "id": "overview-image",
+              "src": "/media/60095a9e-60f5-4176-be4a-6b86a1c5ff51.png",
+              "alt": "What is BOS",
+              "style": {
+                "width": "100%",
+                "height": "auto",
+                "borderRadius": "0.5rem",
+                "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "container",
+      "id": "teeming-section",
+      "style": {
+        "padding": "4rem 2rem",
+        "backgroundColor": "hsl(var(--muted))",
+        "margin": "4rem 0"
+      },
+      "children": [
+        {
+          "type": "text",
+          "id": "teeming-title",
+          "content": "Startup 1: Teeming (RIP)",
+          "variant": "h2",
+          "style": {
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "color": "hsl(var(--primary))",
+            "marginBottom": "2rem",
+            "textAlign": "center"
+          }
+        },
+        {
+          "type": "container",
+          "id": "teeming-content",
+          "style": {
+            "maxWidth": "1200px",
+            "margin": "0 auto",
+            "display": "grid",
+            "gap": "3rem"
+          },
+          "children": [
+            {
+              "type": "container",
+              "id": "teeming-section-1",
+              "style": {
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
+                "gap": "2rem",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "id": "teeming-text-1",
+                  "content": "A lot of friends ask me how to come up with a brilliant \"blue ocean\" startup idea in the first place. I remember the first time I participated in an innovation summit called the Conrad Challenge. Our team was given the task of innovating in the field of energy and environment. After days and nights of Googling, all we came up with was a portable water bottle that detects and purifies water—for lower-middle-income country laborers. Sounds pretty lame, right?",
+                  "variant": "p",
+                  "style": {
+                    "fontSize": "1.125rem",
+                    "lineHeight": "1.7"
+                  }
+                },
+                {
+                  "type": "image",
+                  "id": "teeming-image-1",
+                  "src": "/media/55fa40c1-32e6-409d-a0c2-05e4c10c38d5.png",
+                  "alt": "Conrad Challenge Experience",
+                  "style": {
+                    "width": "100%",
+                    "height": "auto",
+                    "borderRadius": "0.5rem",
+                    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "id": "teeming-section-2",
+              "style": {
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
+                "gap": "2rem",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "id": "teeming-text-2",
+                  "content": "So, my suggestion for finding a cool startup idea is the same as finding love: let it happen naturally. None of my good startup ideas came from Googling (other than that summit one), and none of my love stories came from swiping on Tinder or Chinese dating apps. But even if things happen naturally, you still have to be prepared to catch the opportunity when it comes. I believe the best way to be prepared is to pay closer attention to life, ask more \"why not?\" questions, and turn those very personal and intimate dissatisfactions into the spark for your startup idea.",
+                  "variant": "p",
+                  "style": {
+                    "fontSize": "1.125rem",
+                    "lineHeight": "1.7"
+                  }
+                },
+                {
+                  "type": "image",
+                  "id": "teeming-image-2",
+                  "src": "/media/0fbf8987-360a-4a80-803c-d889567611bc.jpeg",
+                  "alt": "Natural Ideation Process",
+                  "style": {
+                    "width": "100%",
+                    "height": "auto",
+                    "borderRadius": "0.5rem",
+                    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "id": "teeming-section-3",
+              "style": {
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
+                "gap": "2rem",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "id": "teeming-text-3",
+                  "content": "Now, here comes the story of my first startup, Teeming. Since sixth grade, I've been a super active student in all kinds of competitions—debate, public speaking, MUN, econ, business sims, you name it. As I made more friends along the way, I noticed a shared frustration—whether in WeChat PMs or moments—about how hard it was to find teammates for competitions, activities, and charity projects, especially for international students in China. My friends were always complaining. I was too, whenever I needed teammates.",
+                  "variant": "p",
+                  "style": {
+                    "fontSize": "1.125rem",
+                    "lineHeight": "1.7"
+                  }
+                },
+                {
+                  "type": "image",
+                  "id": "teeming-image-3",
+                  "src": "/media/dfcc0149-861e-44ae-b398-fd8e055412e3.png",
+                  "alt": "Teeming Story",
+                  "style": {
+                    "width": "100%",
+                    "height": "auto",
+                    "borderRadius": "0.5rem",
+                    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "id": "teeming-section-4",
+              "style": {
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
+                "gap": "2rem",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "id": "teeming-text-4",
+                  "content": "I quickly seized the opportunity and came up with the idea of creating an aggregator platform on WeChat (a mini-program) to help international students find teammates. The magic of drawing startup ideas from personal experience is that they're often naturally in a \"blue ocean.\" Especially if you're a high schooler, because your friends who share the same pain point usually don't see it as an entrepreneurial opportunity—leaving you as one of the rare changemakers.",
+                  "variant": "p",
+                  "style": {
+                    "fontSize": "1.125rem",
+                    "lineHeight": "1.7"
+                  }
+                },
+                {
+                  "type": "video",
+                  "id": "teeming-video",
+                  "src": "/media/23c1d76a-2055-4e12-ba2e-788701bb706a.mp4",
+                  "style": {
+                    "width": "100%",
+                    "borderRadius": "0.5rem",
+                    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "id": "teeming-section-5",
+              "style": {
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
+                "gap": "2rem",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "id": "teeming-text-5",
+                  "content": "In the book Blue Ocean Strategy, the importance of value innovation (redefining the product or service to be far more attractive to buyers at a lower cost) and the Eliminate–Reduce–Raise–Create (ERRC) framework aligns pretty well with the lean startup methodology—which I'll dive deeper into later. But here's the thing: one of the main criticisms of blue ocean strategy is how easy it is to ignore real competition. The entrepreneurial world is wild and ever-changing. A lot of brilliant founders start by solving a super niche pain point—just like you—and they also pivot and grow. So just because your startup is in a \"blue ocean\" now doesn't mean it'll stay that way. There will always be potential competitors lurking, ready to make a move. So technically, it's wrong to assume your market is a \"safe\" blue ocean forever.",
+                  "variant": "p",
+                  "style": {
+                    "fontSize": "1.125rem",
+                    "lineHeight": "1.7"
+                  }
+                },
+                {
+                  "type": "image",
+                  "id": "teeming-image-5",
+                  "src": "/media/04704fad-abac-49fc-ae35-691f43716614.webp",
+                  "alt": "Blue Ocean Strategy Book",
+                  "style": {
+                    "width": "100%",
+                    "height": "auto",
+                    "borderRadius": "0.5rem",
+                    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            },
+            {
+              "type": "container",
+              "id": "teeming-section-6",
+              "style": {
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
+                "gap": "2rem",
+                "alignItems": "center"
+              },
+              "children": [
+                {
+                  "type": "text",
+                  "id": "teeming-text-6",
+                  "content": "In my case, after a few months of solid growth, RedNote (better known as Xiaohongshu) suddenly started becoming super popular with young international students. Now, anyone who wants to find a teammate can just post on RedNote, and people will drop their bios in the comments. Just like that, Teeming wasn't needed anymore. That's where I learned a huge lesson: always do your homework to scout out potential competitors, and always have a contingency plan to stay competitive if a rival suddenly pops up out of nowhere.",
+                  "variant": "p",
+                  "style": {
+                    "fontSize": "1.125rem",
+                    "lineHeight": "1.7"
+                  }
+                },
+                {
+                  "type": "image",
+                  "id": "teeming-image-6",
+                  "src": "/media/037b1bd9-b639-4afa-a6da-c08b1b93e819.png",
+                  "alt": "Competition Lesson",
+                  "style": {
+                    "width": "100%",
+                    "height": "auto",
+                    "borderRadius": "0.5rem",
+                    "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "container",
+      "id": "other-startups-section",
+      "style": {
+        "padding": "4rem 2rem",
+        "maxWidth": "1200px",
+        "margin": "0 auto"
+      },
+      "children": [
+        {
+          "type": "text",
+          "id": "other-startups-title",
+          "content": "Other startups: OFFER STUDIO(Growing), Gorametto(Unknown), ACCEPTED(idea phrase)",
+          "variant": "h2",
+          "style": {
+            "fontSize": "2.5rem",
+            "fontWeight": "700",
+            "color": "hsl(var(--primary))",
+            "marginBottom": "3rem",
+            "textAlign": "center"
+          }
+        },
+        {
+          "type": "container",
+          "id": "offer-studio-section",
+          "style": {
+            "display": "grid",
+            "gridTemplateColumns": "1fr 1fr",
+            "gap": "2rem",
+            "alignItems": "center",
+            "marginBottom": "3rem"
+          },
+          "children": [
+            {
+              "type": "text",
+              "id": "offer-studio-text",
+              "content": "Offer Studio is a startup I pour most of my time and energy into right now. The company earned $6,000 in revenue just in the first 20 days of operation. The service of Offer Studio is basically helping students applying to U.S. colleges to make personal websites, and websites for activities, charity projects, and entrepreneurial projects. During the college application process, I was extremely busy with refining the Common App essay, supplemental essays, and the activities list. When my counselor told me about the necessity of creating a personal website, it was the last straw that crushed me. To save time, I wrote everything in the format of a document and paid a website-making company $400 to transform those contents into a website. They promised to give me the website in 2 weeks—still no message after 4 weeks. When I accessed their so-called \"finished version\" that they finally gave me after more than a month, I was so pissed because the website was a total piece of shit—looking like something made by a 10th-century barbarian. Not only was everything a mess and super ugly, they also misinterpreted a lot of things I wrote... There were only 2 days left until the application deadline. Then, I decided to do it myself. With years of experience using Wix, I made a wonderful-looking website in just one night without sleeping. And that tiredness and dissatisfaction with the service current companies offer is what made me determined to launch Offer Studio—our own service—right after I finished my college applications. Even if the current competitors exist on the surface level, I know that our service targets customers that are different in significant ways. This makes our service a relative blue ocean.",
+              "variant": "p",
+              "style": {
+                "fontSize": "1.125rem",
+                "lineHeight": "1.7"
+              }
+            },
+            {
+              "type": "image",
+              "id": "offer-studio-image",
+              "src": "/media/cf57314c-d1ca-4965-9a89-543d2255a22f.png",
+              "alt": "Offer Studio",
+              "style": {
+                "width": "100%",
+                "height": "auto",
+                "borderRadius": "0.5rem",
+                "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "container",
+          "id": "gorametto-section",
+          "style": {
+            "display": "grid",
+            "gridTemplateColumns": "1fr 1fr",
+            "gap": "2rem",
+            "alignItems": "center",
+            "marginBottom": "3rem"
+          },
+          "children": [
+            {
+              "type": "text",
+              "id": "gorametto-text",
+              "content": "Gorametto is the world's first transparent snowboard—a startup I incubated in my high school entrepreneurship community. The founder was brilliant in coming up with this blue ocean idea. Most snowboards today, like Burton, compete on aesthetic design, whereas the founder of Gorametto is innovating in the material: making it transparent. Additionally, the polymer core with a fiber support structure also reduces cost, and improves lifespan and maneuverability.",
+              "variant": "p",
+              "style": {
+                "fontSize": "1.125rem",
+                "lineHeight": "1.7"
+              }
+            },
+            {
+              "type": "image",
+              "id": "gorametto-image",
+              "src": "/media/0127fafa-a1a1-4bbd-8ff2-92848f095cec.png",
+              "alt": "Gorametto Snowboard",
+              "style": {
+                "width": "100%",
+                "height": "auto",
+                "borderRadius": "0.5rem",
+                "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+              }
+            }
+          ]
+        },
+        {
+          "type": "container",
+          "id": "accepted-section",
+          "style": {
+            "display": "grid",
+            "gridTemplateColumns": "1fr 1fr",
+            "gap": "2rem",
+            "alignItems": "center"
+          },
+          "children": [
+            {
+              "type": "text",
+              "id": "accepted-text",
+              "content": "ACCEPTED is a fashion brand targeting applicants to U.S. colleges. I want to use the Five Elements and Eight Characters (a traditional Chinese fortune-telling method) to calculate which element a person lacks the most, and then recommend our trendy fashion pieces that \"boost their luck\" by aligning with that missing element.",
+              "variant": "p",
+              "style": {
+                "fontSize": "1.125rem",
+                "lineHeight": "1.7"
+              }
+            },
+            {
+              "type": "image",
+              "id": "accepted-image",
+              "src": "/media/c1a6b046-4305-4cf9-aea4-15d39016049e.png",
+              "alt": "ACCEPTED Brand",
+              "style": {
+                "width": "100%",
+                "height": "auto",
+                "borderRadius": "0.5rem",
+                "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 

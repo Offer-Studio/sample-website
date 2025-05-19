@@ -1,0 +1,70 @@
+{
+  "name": "json-website-builder",
+  "version": "0.1.8",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@radix-ui/react-accordion": "^1.2.3",
+    "@radix-ui/react-dialog": "^1.1.6",
+    "@radix-ui/react-dropdown-menu": "^2.1.6",
+    "@radix-ui/react-hover-card": "^1.1.6",
+    "@radix-ui/react-label": "^2.1.2",
+    "@radix-ui/react-select": "^2.1.6",
+    "@radix-ui/react-separator": "^1.1.2",
+    "@radix-ui/react-slot": "^1.1.2",
+    "@radix-ui/react-tabs": "^1.1.3",
+    "@radix-ui/react-tooltip": "^1.1.8",
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-pdf-viewer/default-layout": "^3.12.0",
+    "@react-pdf-viewer/full-screen": "^3.12.0",
+    "@react-pdf-viewer/toolbar": "^3.12.0",
+    "@types/react-syntax-highlighter": "^15.5.13",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "embla-carousel-react": "^8.5.2",
+    "html-react-parser": "^5.2.2",
+    "lucide-react": "^0.475.0",
+    "marked": "^15.0.7",
+    "next": "^15.2.0",
+    "next-themes": "^0.4.4",
+    "pdfjs-dist": "4.8.69",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-pdf": "^9.2.1",
+    "react-syntax-highlighter": "^15.6.1",
+    "sonner": "^2.0.1",
+    "tailwind-merge": "^3.0.1",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.24.2",
+    "zod-to-json-schema": "^3.22.4",
+    "zustand": "^5.0.3"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/marked": "5.0.2",
+    "@types/node": "^20",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.7",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  },
+  "changelog": {
+    "0.1.8": {
+      "title": "Media Component Hydration Fix",
+      "changes": [
+        "Fixed hydration issues with PDF and Video components",
+        "Added client-side only rendering with loading states to prevent mismatches",
+        "Simplified component rendering approach",
+        "Ensured proper display of uploaded media files"
+      ]
+    }
+  }
+}
